@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_fdd0d3f4c7a0f4b562f60111b1b400344750c273.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_bbb2ad7fc17cbc301a2042205afc580680047fcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_1c6353aab63a4e0e4a34dc916b4890b1c32743fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d3e48e200296061415952a358fad487e129adaa">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.45.1_fb46a48fd5380a5a2a8bda049a339e781cbaf19e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_ccfe3cba717eda9a05f1c5724262526dff53afd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_86381b5d7e4a246c5963ee87dc74b8bf3de239bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/exploded-aar/RNImagePicker/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="185debb713f05e6ae262b4167d7645dce64ca4cb">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/RNImagePicker-react-native-image-picker-unspecified_ce8a09ead7b08f0bf6d6405b1222f623f2eb4082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_375c30ac0d1ebae71066ad7f68bf4c24df24d920.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_6d392c4441072651c0760e199e610832aa648cff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_3de52ebbe80d183a7699b3e6cab8eb9f0869a6b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_56c9e245e068457f3ae70d0135e3c1cceac40b13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_1e46402ae5de741693e42102f01ef16fa0d97255.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_0923d870c695da044776f9c392de884cbe17e8e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_14412345ba1d2ab3182ba5b17ea12a6c2b9b1d1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_3fae9f4529c56d68b768fcc668d34988bb07acf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_bfcdc80dca1b07b5992002242fa8be369bfde987.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_2b53029a18cbde2d12510dc13bf0399c0f67adfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_0337ec06a99cb541e847058907f172eba95f0b9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_6fb8ad206dd1769032f61d7b72a52b1eec6c5a9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_ebb7e2df78e6009dbd3ab63fd936491d886fc0a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_0ca550bbae41d37173f07fb3d35f16688be1595e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/exploded-aar/RNImagePicker/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="981235c69c4e2cecde2d943078619379d95d15f1">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/RNImagePicker-react-native-camera-unspecified_696ebfe201c3b09a076e279532bc107a122bb169.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_395fdc453c7354503e0c50ec0f850b309d2f5cee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_12977cc199f83fe5f95184fc14970a0cae0c7259.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_f8d466c024cd177badc51c0962f65dcdf41072d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_92b55a0ccdc661ad7b6287ad2431d94eda62ea82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_32ba1f7dd154e4645f4a1120fa73446ea5bf01e4.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/mymac/Documents/GitHub/RNImagePicker/android/app/build/intermediates/exploded-aar/RNImagePicker/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    }
+]
